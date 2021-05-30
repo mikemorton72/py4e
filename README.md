@@ -1,2 +1,2 @@
 ## Course Exercises for Python for Everyone on Coursera.
-whatever text here
+This repository contains course exercises from Charles Severence's Python for Everybody specialization on Coursera.
